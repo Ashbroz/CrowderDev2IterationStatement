@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrowderDev2IterationStatement", "CrowderDev2IterationStatement.csproj", "{A997E90A-6C67-4048-82AC-51E9FAA208AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A997E90A-6C67-4048-82AC-51E9FAA208AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A997E90A-6C67-4048-82AC-51E9FAA208AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A997E90A-6C67-4048-82AC-51E9FAA208AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A997E90A-6C67-4048-82AC-51E9FAA208AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB49C918-C079-43BF-B811-E1D424F07C55}
+	EndGlobalSection
+EndGlobal
